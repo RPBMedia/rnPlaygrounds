@@ -14,7 +14,7 @@ class PostList extends Component {
   }
 
   render() {
-    debugger;
+    
     return (
       <View style={styles.container}>
       <FlatList
