@@ -17,6 +17,7 @@ export const postsFetch = () => async dispatch => {
     console.log('Error in the request: ', error);
     return error;
   }
+  
 };
 
 export const postRequest = () => async dispatch => {
